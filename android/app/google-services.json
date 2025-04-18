@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1071624467206",
+    "firebase_url": "https://math-flutter-backend-default-rtdb.firebaseio.com",
+    "project_id": "math-flutter-backend",
+    "storage_bucket": "math-flutter-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071624467206:android:5857b7e5101dfaf7902487",
+        "android_client_info": {
+          "package_name": "com.example.math_game_flutter_rebuild"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcy1y1Wft23740MDhGaM549iBUff6yYrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
