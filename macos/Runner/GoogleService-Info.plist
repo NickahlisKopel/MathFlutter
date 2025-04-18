@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBNjIZOMss5whHuHpaZSC5BE9UQ11siXVQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1071624467206</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mathGameFlutterRebuild</string>
+	<key>PROJECT_ID</key>
+	<string>math-flutter-backend</string>
+	<key>STORAGE_BUCKET</key>
+	<string>math-flutter-backend.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1071624467206:ios:e53fcf5a3bcf16e9902487</string>
+	<key>DATABASE_URL</key>
+	<string>https://math-flutter-backend-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

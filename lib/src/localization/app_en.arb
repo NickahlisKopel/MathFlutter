@@ -1,0 +1,6 @@
+{
+  "appTitle": "math_game_flutter_rebuild",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
